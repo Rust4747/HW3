@@ -98,9 +98,9 @@ public class Main {
         int dDifference=(dPayRise*12)-(d*12);
         int kPayRise=((k/100)*10)+k;
         int kDifference=(kPayRise*12)-(k*12);
-        System.out.println("Маша после повышения получает "+mPayRise+" рублей"+ "Годовой доход вырос на"+mDifference+"рублей");
-        System.out.println("Денис после повышения получает "+dPayRise+" рублей"+ "Годовой доход вырос на"+dDifference+"рублей");
-        System.out.println("Кристина после повышения получает "+kPayRise+" рублей"+ "Годовой доход вырос на"+kDifference+"рублей");
+        System.out.println("Маша после повышения получает "+mPayRise+" рублей"+ " Годовой доход вырос на"+mDifference+"рублей");
+        System.out.println("Денис после повышения получает "+dPayRise+" рублей"+ " Годовой доход вырос на"+dDifference+"рублей");
+        System.out.println("Кристина после повышения получает "+kPayRise+" рублей"+ " Годовой доход вырос на"+kDifference+"рублей");
 
 
 
